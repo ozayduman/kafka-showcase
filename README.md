@@ -1,4 +1,4 @@
-# Apache Kafka, Spring Kafka ve Docker Compose ile Lokalde Geliştirme 
+# Apache Kafka, Spring for Apache Kafka ve Docker Compose ile Lokalde Geliştirme 
 Bu yazımda kafkayı geliştirme ortamınızda nasıl kolayca kullanabileceğinizi anlatıyorum.
 **Apache Kafka**, hızlı, ölçeklenebilir, yüksek erişilebilir, hata toleransı, dayanıklılık v.b. özelliklere sahip bir mesajlaşma sistemidir. 
 Genel anlamda Mikroservis Mimarisi gibi dağıtık uygulamalar arasındaki asenkron iletişimde (event & command based), real-time data pipeline'ları ve streaming uygulamaları oluşturmak için kullanılmaktadır.
